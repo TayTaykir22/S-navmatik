@@ -1,0 +1,6 @@
+{
+  "name": "SınavMatik - Çift Sütunlu A4 Klasik Sınav Hazırlama ve Çıktı Programı",
+  "description": "Öğretmenler için A4 tasarruflu çift sütunlu klasik sınav hazırlama, soru bankası, resim ve puanlama tablolu profesyonel baskı ve düzenleme aracı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
